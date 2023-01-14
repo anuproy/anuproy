@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **engr.aroy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PnUDPLBwgPy6pU1kHAqPXGPsc8jhNE3J/view?usp=share_link](shorturl.at/fELQ4)
+- 📄 Know about my experiences [shorturl.at/fELQ4](shorturl.at/fELQ4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
