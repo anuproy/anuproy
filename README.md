@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **engr.aroy@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/fELQ4](shorturl.at/fELQ4)
+- 📄 Know about my experiences [https://t.ly/Eg-l](https://t.ly/Eg-l)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
