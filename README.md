@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anup Roy</h1>
 <h3 align="center">A passionate SEO Analyst | UX Designer | Web Editor & Designer | Shopify | CMS Experts- WordPress & Joomla</h3>
+<img align="right" alt ="Anup Roy" src="https://www.facebook.com/photo/?fbid=5094632507303114&set=a.195138650585882">
+
 
 - 🔭 I’m currently working on [SEO Analyst](https://cpoexpertsbd.com/)
 
