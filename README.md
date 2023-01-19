@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/anuproy/anuproy/main/Anup-Roy-Github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Anup Roy</h1>
 <h3 align="center">A passionate SEO Analyst | UX Designer | Web Editor & Designer | Shopify | CMS Experts- WordPress & Joomla</h3>
-<img align="right" alt ="Anup Roy" width="200" height="150" src="https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif">
+<img align="right" alt ="Anup Roy" width="150" height="150" src="https://raw.githubusercontent.com/anuproy/anuproy/main/Anup%20Roy%20Github.png">
 
 
 - 🔭 I’m currently working on [SEO Analyst](https://cpoexpertsbd.com/)
